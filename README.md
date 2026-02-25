@@ -32,18 +32,13 @@ Copy code
 - NumPy
 
 ## Contributing
-
 Contributions are always welcome. If you have any improvements or suggestions, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
 This script was inspired by the need for a real-time paint application using OpenCV. Special thanks to the OpenCV and NumPy communities for their valuable contributions.
-
 Make sure to update the sections with appropriate details about the script and the project.
+
 
 
 
